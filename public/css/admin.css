@@ -1,0 +1,13 @@
+.service-media{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+.option-bg{
+	background-color: #c3bbd01c;
+}

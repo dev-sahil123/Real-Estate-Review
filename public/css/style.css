@@ -1,0 +1,10 @@
+
+#contact .social i.fa-brands {
+	font-size: 24px;
+	padding: 10px;
+	color: rgba(255,255,255,0.6);
+	transition: all 0.3s;
+}
+#contact .social i.fa-brands:hover {
+	color: #fff;
+}

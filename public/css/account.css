@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+}
+header .intro-tab {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+#dashboard{
+	margin-top: 100px;
+	min-height: 500px;
+}
+.service-media {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 225px;
+}
+.img1 { background-image: url('../images/service-1.jpg'); }
+.img2 { background-image: url('../images/service-2.jpg'); }
+.img3 { background-image: url('../images/service-3.jpg'); }
+.img4 { background-image: url('../images/service-4.jpg'); }
+.img5 { background-image: url('../images/service-5.jpg'); }
+.img6 { background-image: url('../images/service-6.jpg'); }
+.common_class{margin: auto auto 1em auto;}
+.tab_class{
+	border: 1px solid #dee2e6;
+	border-top: none;
+	border-radius: 0 0 4px 4px;
+}
+.nav-link active{
+	border: 3px solid #dee2e6;
+	border-bottom: none;
+}
+.shadow-1{
+	box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+.shadow-2{
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+label{
+	color: #545454;
+	font-size: 1.125rem;
+	font-weight: 500;
+}
+.form-label{
+	font-weight: 600;
+} 
+.option-bg{
+	background-color: #c3bbd01c;
+}
